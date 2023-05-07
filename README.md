@@ -30,7 +30,7 @@
         <a><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
         <br>
         <a><img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black">
-        <a><img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-FFFFFF?style=flat&logo=GNU%20Bash&logoColor=black">
+<!--         <a><img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-FFFFFF?style=flat&logo=GNU%20Bash&logoColor=black"> -->
         <a><img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
 </p>
 
