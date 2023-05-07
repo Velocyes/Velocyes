@@ -19,19 +19,20 @@
         <a><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"></a>
         <a><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"></a>
         <a><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen"></a>
-        <a><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+        <a><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
         <br>
-        <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=005C84">
-        <a><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+        <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=005C84"></a>
+        <a><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a>
         <br>
-        <a><img alt="Git" src="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git">
-        <a><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github">
-        <a><img alt="Docker" src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker">
-        <a><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+        <a><img alt="Git" src="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git"></a>
+        <a><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
+        <a><img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></a>
+        <a><img alt="Docker" src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker"></a>
+        <a><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
         <br>
-        <a><img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black">
+        <a><img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black"></a>
 <!--         <a><img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-FFFFFF?style=flat&logo=GNU%20Bash&logoColor=black"> -->
-        <a><img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
+        <a><img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"></a>
 </p>
 
 <p align="center">
