@@ -15,10 +15,8 @@
                 <br>
                 <br>
         </samp>
-        <a><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=blue"></a>
         <a><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"></a>
         <a><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen"></a>
-        <a><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
         <br>
         <a><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a>
         <br>
